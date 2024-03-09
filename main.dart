@@ -35,3 +35,9 @@ void main() {
     Set<int> numbers = {1, 2, 3, 4, 5, 6, 7, 8, 9, 10};
     print('Numbers: $numbers');
 }
+
+void main() {
+    // example of a boolean type
+    bool isMarried = true;
+    print('Is married: $isMarried');
+}
